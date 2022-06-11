@@ -17,4 +17,6 @@ This course's intention is to create an API with nodeJS.
 
 And **postman** for get/post requests; https://web.postman.co/
 
+Request .env file to the creator or create a new one for connection with DB and port linking.
+
 ### Made by Serial3
